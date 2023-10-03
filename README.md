@@ -26,7 +26,7 @@ com a proposta de representar os papéis do IPhone de: Reprodutor Musicial, Apar
 ---
 
 # UML
-![Preview](./diagrama_Iphone.png)
+![Preview](./diagrama_Iphone.drawio.png)
 
 # Tecnologias
 - Java
